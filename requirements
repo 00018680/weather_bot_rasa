@@ -1,0 +1,2 @@
+spacy==3.5.2  # Install the correct version of spaCy
+en_core_web_sm==3.5.0  # Install the specific model
